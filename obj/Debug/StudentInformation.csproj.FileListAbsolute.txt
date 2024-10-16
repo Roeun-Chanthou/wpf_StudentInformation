@@ -1,0 +1,78 @@
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\MainWindow.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\App.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.cache
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.lref
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Components\Data.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.g.cs
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\App.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Components\Data.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\MainWindow.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.baml
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.g.resources
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\vitou\source\repos\WPF\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Components\Data.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\MainWindow.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\App.g.cs
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.cache
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.lref
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\App.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Components\Data.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\MainWindow.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.baml
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.g.resources
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+D:\ANT_C#\mini project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Components\Data.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\MainWindow.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\App.g.cs
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.cache
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation_MarkupCompile.lref
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\App.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Components\Data.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Components\MyCard.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\MainWindow.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\MyGroup.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\RegisterPage.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\Pages\StudentDataPage.baml
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.g.resources
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Mac\Home\Downloads\StudentInformation_1\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb

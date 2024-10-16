@@ -1,0 +1,14 @@
+﻿<Application x:Class="StudentInformation.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:StudentInformation"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="moul">
+            Assets/Fonts/moul.ttf#Moul
+        </FontFamily>
+        <FontFamily x:Key="kantumruy">
+            Assets/Fonts/kantumruy.ttf#Kantumruy Pro
+        </FontFamily>
+    </Application.Resources>
+</Application>

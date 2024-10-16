@@ -1,0 +1,86 @@
+﻿<UserControl
+    x:Class="StudentInformation.Components.Data"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:StudentInformation.Components"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Height="50"
+    Margin="0,0,0,5"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+    <Border
+        Padding="20,0,0,0"
+        Background="#ffffff"
+        CornerRadius="10">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="1.5*" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="1.5*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <TextBlock
+                x:Name="TextBlockID"
+                Grid.Column="0"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource kantumruy}"
+                FontSize="16" />
+ 
+            <Border
+                x:Name="BorderImage"
+                Grid.Column="1"
+                Width="40"
+                Height="40"
+                Margin="-10"
+                HorizontalAlignment="Left"
+                Background="Wheat"
+                CornerRadius="20">
+                <Image
+                    x:Name="StudentImage"
+                    Width="40"
+                    Height="40"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Source="{Binding ImagePath}"
+                    Stretch="Fill">
+                    <Image.Clip>
+                        <EllipseGeometry
+                            Center="20,20"
+                            RadiusX="20"
+                            RadiusY="20" />
+                    </Image.Clip>
+                </Image>
+            </Border>
+
+            <TextBlock
+                x:Name="TextBlockName"
+                Grid.Column="2"
+                Margin="-40 0 0 0"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource kantumruy}"
+                FontSize="16" />
+            <TextBlock
+                x:Name="TextBlockGender"
+                Grid.Column="3"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource kantumruy}"
+                FontSize="16" />
+            <TextBlock
+                x:Name="TextBlockMajor"
+                Grid.Column="4"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource kantumruy}"
+                FontSize="16" />
+            <TextBlock
+                x:Name="TextBlockPhone"
+                Grid.Column="5"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource kantumruy}"
+                FontSize="16" />
+        </Grid>
+    </Border>
+</UserControl>
+

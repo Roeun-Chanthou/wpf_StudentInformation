@@ -1,0 +1,16 @@
+001;jj kk;female;mobile;012345678;Data/StudentImages\001_28.png
+002;jiji juuu;female;design;098777666;Data/StudentImages\002_7.png
+003;ddd sss;female;design;09887666;Data/StudentImages\003_1.png
+005;bbb mmm;female;IT;0123476654;Data/StudentImages\005_6.png
+006;hhh vvv;female;Design;09123456;Data/StudentImages\006_9.png
+006;dy dy;female;flutter;0999888855;Data/StudentImages\006_26.png
+007;Lyn Daa;female;Designer;012345213;Data/StudentImages\007_19.png
+008;Gggg Ddd;female;flutter;099887766;Data/StudentImages\008_8.png
+010;vvv jjj;female;web dev;023456788;Data/StudentImages\010_14.png
+1234;រេន រ៉ាឌី;ប្រុស;លួច;0123447488;Data/StudentImages\1234_photo_2024-09-18_16-38-12.jpg
+111111;រាឌី រតនា;ប្រុស;ញ៉ាំបាយ;012346;Data/StudentImages\111111_rady.png
+fghj;cvb c;v;cv;cvb;Data/StudentImages\fghj_8759097.png
+sf;as a;asas;as;a;Data/StudentImages\sf_CBRD-LOGO.png
+xdfg;cgbn vbn;vbn;ghj;vbn;Data/StudentImages\xdfg_images (1).png
+dfghj;dfghj dfghj;cvbn;cvbnm;fghn;Data/StudentImages\dfghj_images (1).png
+0234;jkj kdmv;female;JJKK;09823456;Data/StudentImages\0234_18.png
